@@ -2,7 +2,7 @@
 
 An intelligent draft companion that monitors ESPN fantasy football drafts in real-time and provides AI-powered recommendations for optimal player selection.
 
-## 🎯 Features
+## Features
 
 - **Live ESPN Draft Integration**: Connects to your ESPN fantasy league and monitors draft progress
 - **AI-Powered Recommendations**: Uses GPT-4 to analyze available players and provide strategic picks
@@ -12,7 +12,7 @@ An intelligent draft companion that monitors ESPN fantasy football drafts in rea
 - **Data Integration**: Pulls ADP, projections, and player statistics
 - **Real-time Data Scraping**: Fetches fresh data from FantasyPros, ESPN, Rotowire, and other sources
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.8+
@@ -79,7 +79,7 @@ python main.py --mode cli
 streamlit run main.py --mode web
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 fantasy-draft-ai/
@@ -108,7 +108,7 @@ fantasy-draft-ai/
 └── requirements.txt
 ```
 
-## 🧠 AI Strategy
+## AI Strategy
 
 The AI analyzes:
 - Current roster composition
@@ -118,7 +118,7 @@ The AI analyzes:
 - Draft round and pick position
 - Historical fantasy success patterns
 
-## 📊 Data Sources
+## Data Sources
 
 The system integrates data from multiple fantasy football sources:
 
@@ -145,21 +145,21 @@ The system integrates data from multiple fantasy football sources:
 
 For detailed information about data sources and web scraping, see [WEB_SCRAPING_GUIDE.md](WEB_SCRAPING_GUIDE.md).
 
-## 🔧 Configuration Options
+## Configuration Options
 
 - **Draft Strategy**: Zero RB, Hero RB, Elite TE prioritization
 - **Risk Tolerance**: Conservative vs. aggressive drafting
 - **Position Preferences**: Custom position priorities
 - **League Settings**: PPR, standard, or custom scoring
 
-## 📊 Data Sources
+## Data Sources
 
 - ESPN Fantasy API for live draft data
 - FantasyPros for ADP and projections
 - Pro Football Reference for historical stats
 - OpenAI GPT-4 for strategic reasoning
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -167,10 +167,11 @@ For detailed information about data sources and web scraping, see [WEB_SCRAPING_
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## ⚠️ Disclaimer
+## Disclaimer
+
 
 This tool is for educational and entertainment purposes. Fantasy football involves risk, and past performance does not guarantee future results. 
