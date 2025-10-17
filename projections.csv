@@ -1,0 +1,21 @@
+name,position,team,projected_points,passing_yards,passing_tds,passing_ints,rushing_yards,rushing_tds,receptions,receiving_yards,receiving_tds,fumbles
+Christian McCaffrey,RB,SF,280.5,0,0,0,1200,12,85,650,5,2
+Ja'Marr Chase,WR,CIN,275.3,0,0,0,50,0,105,1450,12,1
+Justin Jefferson,WR,MIN,272.1,0,0,0,30,0,110,1420,11,1
+Bijan Robinson,RB,ATL,268.9,0,0,0,1100,10,70,600,4,3
+Tyreek Hill,WR,MIA,265.2,0,0,0,80,1,95,1380,10,1
+Austin Ekeler,RB,LAC,262.4,0,0,0,950,8,75,650,6,2
+Travis Kelce,TE,KC,245.8,0,0,0,20,0,90,1100,8,1
+Derrick Henry,RB,BAL,240.1,0,0,0,1200,10,25,200,1,2
+Stefon Diggs,WR,HOU,235.6,0,0,0,40,0,85,1200,8,1
+Alvin Kamara,RB,NO,232.8,0,0,0,850,6,65,550,4,2
+Cooper Kupp,WR,LAR,230.5,0,0,0,60,0,90,1150,7,1
+Saquon Barkley,RB,PHI,235.2,0,0,0,1000,8,55,450,3,3
+Jonathan Taylor,RB,IND,228.9,0,0,0,1100,9,35,300,2,2
+DeVante Adams,WR,LV,225.4,0,0,0,50,0,80,1100,7,1
+Mark Andrews,TE,BAL,220.8,0,0,0,10,0,75,900,7,1
+Josh Jacobs,RB,GB,218.5,0,0,0,950,7,45,350,2,2
+Amari Cooper,WR,CLE,215.2,0,0,0,30,0,75,1000,6,1
+Patrick Mahomes,QB,KC,310.5,4500,35,12,250,2,0,0,0,3
+Nick Chubb,RB,CLE,210.8,0,0,0,1000,8,25,200,1,2
+Stefon Diggs,WR,HOU,230.1,0,0,0,45,0,88,1180,8,1 

@@ -1,0 +1,21 @@
+name,position,team,injury_risk,age,experience_years,contract_status,team_changes,coaching_changes,risk_factors,risk_score
+Christian McCaffrey,RB,SF,medium,28,7,long_term,no,no,"Age, heavy workload",6
+Ja'Marr Chase,WR,CIN,low,24,3,long_term,no,no,"Young, stable situation",3
+Justin Jefferson,WR,MIN,low,25,4,long_term,no,no,"Young, elite talent",2
+Bijan Robinson,RB,ATL,medium,22,2,rookie,no,no,"Young, limited experience",5
+Tyreek Hill,WR,MIA,low,30,8,long_term,no,no,"Age, but elite speed",4
+Austin Ekeler,RB,LAC,medium,29,7,contract_year,yes,no,"Contract year, new team",7
+Travis Kelce,TE,KC,medium,34,11,long_term,no,no,"Age, but still elite",6
+Derrick Henry,RB,BAL,high,30,8,contract_year,yes,no,"Age, heavy workload, new team",8
+Stefon Diggs,WR,HOU,medium,30,9,long_term,yes,no,"New team, QB uncertainty",6
+Alvin Kamara,RB,NO,medium,29,7,long_term,no,no,"Age, legal issues resolved",5
+Cooper Kupp,WR,LAR,high,31,7,long_term,no,no,"Age, injury history",8
+Saquon Barkley,RB,PHI,high,27,6,contract_year,yes,no,"Injury history, new team",9
+Jonathan Taylor,RB,IND,medium,25,4,contract_year,no,no,"Contract year, injury concerns",7
+DeVante Adams,WR,LV,low,31,10,long_term,no,no,"Age, but consistent",5
+Mark Andrews,TE,BAL,medium,29,6,long_term,no,no,"Age, injury concerns",6
+Josh Jacobs,RB,GB,medium,26,5,contract_year,yes,no,"New team, contract year",7
+Amari Cooper,WR,CLE,low,30,9,long_term,no,no,"Age, but consistent",4
+Patrick Mahomes,QB,KC,low,28,7,long_term,no,no,"Elite, stable situation",2
+Nick Chubb,RB,CLE,high,28,6,contract_year,no,no,"Injury history, contract year",8
+Stefon Diggs,WR,HOU,medium,30,9,long_term,yes,no,"New team, QB uncertainty",6 
